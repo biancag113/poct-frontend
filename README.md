@@ -3,7 +3,7 @@ Helping patients and clinicians check and save clinical testing done in the home
 
 ## This project was built with
 
-AWS Amplify - deployment tool for react 
+<br>AWS Amplify - deployment tool for react </br>
 AWS GraphQL - API for backend and user models
 AWS DynamoDB - a database to store user data
 AWS Cognity - user authentication
