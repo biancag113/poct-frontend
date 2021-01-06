@@ -11,10 +11,9 @@ Helping patients and clinicians check and save clinical testing done in the home
 <ul>ReactStrap - for styling</ul>
 <ul>Art/Images from Getty Images - background image </ul>
 
-## Bonus Features (if I have time)
+## Bonus Features 
 
 <ul>Computer vision - TensorFlow library, YOLO, OpenCV, and proprietary datasets (Bianca created and labeled them)</ul>
-<ul>Natural Language Processing - PyTorch, AWS Comprehend</ul>
 
 
 
